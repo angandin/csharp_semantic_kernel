@@ -1,0 +1,11 @@
+Translate the question provided and delimited by ### in a t-sql SELECT statement. 
+To create the query, use only the tables and their definition previously retrieved provided in the Tables section and delimited by |||. 
+Do not use any other tables and do not create any additional statement than the SELECT one.
+
+Tables: |||
+{{tables}}
+|||
+
+Question: ###
+{{question}}
+###
